@@ -1,4 +1,4 @@
-# Morse-code-translator
+# :arrows_counterclockwise: Morse-code-translator
 This is a Morse code translator which is implemented using the Turing machine in Jflap software.
 
 ## ℹ️ Installations:
@@ -16,7 +16,10 @@ Download 7.1 version of the software
 7. It will reject the input if the given morse code is incorrect.
 8. Displays the word translated into English if accepted.
 
-## Future scope:
+## :heavy_check_mark: Output demo:
+Find the state diagram image here - 
+
+## :arrow_upper_right: Future scope:
 To make this machine translate sentences, prsenetly tranlates only words even given a sentence gives it as single word.
 
 ## If you liked the project and found it helpful
