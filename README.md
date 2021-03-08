@@ -22,6 +22,9 @@ Find the state diagram image here - [State Diagram](https://github.com/Chandana0
 ## :arrow_upper_right: Future scope:
 To make this machine translate sentences, prsenetly tranlates only words even given a sentence gives it as single word.
 
+## Have an issue or a bug? Would like to contact?
+Report [here](https://github.com/Chandana047/Morse-code-translator/issues)
+
 ## If you liked the project and found it helpful
 Give a start :smiley::star:
 
