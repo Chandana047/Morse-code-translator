@@ -17,7 +17,7 @@ Download 7.1 version of the software
 8. Displays the word translated into English if accepted.
 
 ## :heavy_check_mark: Output demo:
-Find the state diagram image here - 
+Find the state diagram image here - [State Diagram](https://github.com/Chandana047/Morse-code-translator/blob/main/Morse_code_translator_final.jff.jpg)
 
 ## :arrow_upper_right: Future scope:
 To make this machine translate sentences, prsenetly tranlates only words even given a sentence gives it as single word.
